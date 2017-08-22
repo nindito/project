@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Samsil Arefin
 int main()
 {
     float loan,down,month,inter,interest,dsub,total,perinter,capital;
