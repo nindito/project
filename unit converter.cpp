@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 
+/*
+Developed by Samsil Arefin,Ferdour rahman,Israfil mahmud raju and Shafayat hossain
+*/
 
 void area(){
 
