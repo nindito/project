@@ -2,7 +2,12 @@
 #include<cstring>
 #include<cstdlib>
  using namespace std;
+/*
+Samsil Arefin
+ashik-e-rabbany
+arman f rahman
 
+*/
 struct node
 {
     int pos;
